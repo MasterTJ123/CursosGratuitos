@@ -8,3 +8,11 @@ Esse é um repositório de links de cursos gratuitos que eu pessoalmente gosto. 
 </h3>
 
 - [Django Python - Andrey Ivanov](https://www.youtube.com/playlist?list=PLP6YTIItbLXPxLs150bKsZQJkQY6eEUA_)
+
+<h3 style="line-height: 25px;">
+  <span style="vertical-align: middle;">Teoria dos Grafos</span>
+</h3>
+
+- [Shortest Path Algorithms - Michael Sambol](https://www.youtube.com/playlist?list=PL9xmBV_5YoZO-Y-H3xIC9DGSfVYJng9Yw)
+
+- [Minimum Spanning Trees - Michael Sambol](https://www.youtube.com/playlist?list=PL9xmBV_5YoZObEi3Hf6lmyW-CBfs7nkOV)
