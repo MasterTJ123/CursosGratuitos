@@ -16,3 +16,9 @@ Esse é um repositório de links de cursos gratuitos que eu pessoalmente gosto. 
 - [Shortest Path Algorithms - Michael Sambol](https://www.youtube.com/playlist?list=PL9xmBV_5YoZO-Y-H3xIC9DGSfVYJng9Yw)
 
 - [Minimum Spanning Trees - Michael Sambol](https://www.youtube.com/playlist?list=PL9xmBV_5YoZObEi3Hf6lmyW-CBfs7nkOV)
+
+<h3 style="line-height: 25px;">
+  <span style="vertical-align: middle;">Regedit</span>
+</h3>
+
+- [Regedit Training](https://www.youtube.com/playlist?list=PLRaAr7ZJmXeC7ePrC5gWomcMG9TzPCXMa)
