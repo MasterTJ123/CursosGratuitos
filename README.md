@@ -22,3 +22,9 @@ Esse é um repositório de links de cursos gratuitos que eu pessoalmente gosto. 
 </h3>
 
 - [Regedit Training](https://www.youtube.com/playlist?list=PLRaAr7ZJmXeC7ePrC5gWomcMG9TzPCXMa)
+
+<h3 style="line-height: 25px;">
+  <span style="vertical-align: middle;">C/C++</span>
+</h3>
+
+- [Pointers in C/C++ - My Code School](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
