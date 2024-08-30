@@ -28,3 +28,9 @@ Esse é um repositório de links de cursos gratuitos que eu pessoalmente gosto. 
 </h3>
 
 - [Pointers in C/C++ - My Code School](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
+
+<h3 style="line-height: 25px;">
+  <span style="vertical-align: middle;">OpenMP</span>
+</h3>
+
+- [Introduction to OpenMP - Tim Mattson (Intel) - OpenMP](https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG)
