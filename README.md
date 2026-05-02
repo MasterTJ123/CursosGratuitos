@@ -34,3 +34,9 @@ Esse é um repositório de links de cursos gratuitos que eu pessoalmente gosto. 
 </h3>
 
 - [Introduction to OpenMP - Tim Mattson (Intel) - OpenMP](https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG)
+
+<h3 style="line-height: 25px;">
+  <span style="vertical-align: middle;">Deep Web</span>
+</h3>
+
+- [Curso Hacker | Anônimato e Deep Web - Hacker Lesson Pro](https://www.youtube.com/playlist?list=PLNGEATkSr1SQODhJ5U96k-Maxz9kWjfxt)
