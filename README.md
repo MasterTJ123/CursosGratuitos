@@ -40,3 +40,9 @@ Esse é um repositório de links de cursos gratuitos que eu pessoalmente gosto. 
 </h3>
 
 - [Curso Hacker | Anônimato e Deep Web - Hacker Lesson Pro](https://www.youtube.com/playlist?list=PLNGEATkSr1SQODhJ5U96k-Maxz9kWjfxt)
+
+<h3 style="line-height: 25px;">
+  <span style="vertical-align: middle;">NestJS</span>
+</h3>
+
+- [NestJs Course for Beginners - Create a REST API - freeCodeCamp.org](https://www.youtube.com/watch?v=GHTA143_b-s)
