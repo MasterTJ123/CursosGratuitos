@@ -46,3 +46,9 @@ Esse é um repositório de links de cursos gratuitos que eu pessoalmente gosto. 
 </h3>
 
 - [NestJs Course for Beginners - Create a REST API - freeCodeCamp.org](https://www.youtube.com/watch?v=GHTA143_b-s)
+
+<h3 style="line-height: 25px;">
+  <span style="vertical-align: middle;">Redes de Computadores</span>
+</h3>
+
+- [Introdução a Redes - Fabio Akita](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7)
