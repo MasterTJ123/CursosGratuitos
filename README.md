@@ -52,3 +52,9 @@ Esse é um repositório de links de cursos gratuitos que eu pessoalmente gosto. 
 </h3>
 
 - [Introdução a Redes - Fabio Akita](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcTGjNZuRYCVj3AZtdt6oG7)
+
+<h3 style="line-height: 25px;">
+  <span style="vertical-align: middle;">Git/GitHub</span>
+</h3>
+
+- [Curso de Git e Github COMPLETO 2025 [Iniciantes] + Desafios + Muita Prática - Dev Aprender | Jhonatan de Souza](https://youtu.be/kB5e-gTAl_s)
