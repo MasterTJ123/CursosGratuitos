@@ -58,3 +58,5 @@ Esse é um repositório de links de cursos gratuitos que eu pessoalmente gosto. 
 </h3>
 
 - [Curso de Git e Github COMPLETO 2025 [Iniciantes] + Desafios + Muita Prática - Dev Aprender | Jhonatan de Souza](https://youtu.be/kB5e-gTAl_s)
+
+- [CURSO COMPLETO DE GIT (2 HORAS E 30 MINUTOS) - Bonieky Lacerda](https://youtu.be/OuOb1_qADBQ?list=PLQAhNsa1dzlaq90rVeSGB7vpzVOMToHHa)
