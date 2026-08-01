@@ -66,3 +66,9 @@ Esse é um repositório de links de cursos gratuitos que eu pessoalmente gosto. 
 </h3>
 
 - [How Linux Boots - Joe Collins (EzeeLinux)](https://youtu.be/EjrAzulPsT4)
+
+<h3 style="line-height: 25px;">
+  <span style="vertical-align: middle;">Cheat Engine</span>
+</h3>
+
+- [Cuphead Cheats - Stephen Chapman](https://www.youtube.com/playlist?list=PLNffuWEygffbue0tvx7IusDmfAthqmgS7)
