@@ -61,6 +61,8 @@ Esse é um repositório de links de cursos gratuitos que eu pessoalmente gosto. 
 
 - [CURSO COMPLETO DE GIT (2 HORAS E 30 MINUTOS) - Bonieky Lacerda](https://youtu.be/OuOb1_qADBQ?list=PLQAhNsa1dzlaq90rVeSGB7vpzVOMToHHa)
 
+- [Git e Github na Vida Real - Willian Justen](https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg)
+
 <h3 style="line-height: 25px;">
   <span style="vertical-align: middle;">Linux</span>
 </h3>
