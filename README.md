@@ -48,6 +48,12 @@ Esse é um repositório de links de cursos gratuitos que eu pessoalmente gosto. 
 - [NestJs Course for Beginners - Create a REST API - freeCodeCamp.org](https://www.youtube.com/watch?v=GHTA143_b-s)
 
 <h3 style="line-height: 25px;">
+  <span style="vertical-align: middle;">Next.js</span>
+</h3>
+
+- [Curso de React Next JS - CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUhxQHo-w0xAIMrmt8WgAowL)
+
+<h3 style="line-height: 25px;">
   <span style="vertical-align: middle;">Redes de Computadores</span>
 </h3>
 
